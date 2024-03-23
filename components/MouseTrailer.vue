@@ -1,5 +1,5 @@
 <template>
-	<img src="/images/horsey-transparent.webp" id="pointer" @click="handleClick" draggable="false" alt="horsey mouse trailer"/>
+	<img src="/Screenshot 2024-03-23 12.56.52 AM.png" id="pointer" @click="handleClick" draggable="false" alt="pepe mouse trailer"/>
 </template>
 
 <script setup>
