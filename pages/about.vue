@@ -17,7 +17,7 @@ from the same-named .md file in the 'content' folder. We also import the stylesh
 			},
 			{
 				name: "description",
-				content: "Pepe Stcikering Service",
+				content: "Pepe Stickering Service",
 			},
 		],
 	});
