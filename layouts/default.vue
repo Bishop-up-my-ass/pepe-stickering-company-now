@@ -65,19 +65,19 @@ to be displayed on every page -->
 	}
 	const pages = [
 		{
-			title: "Puzzles",
+			title: "Our Mission",
 			url: "/puzzles",
 		},
 		{
-			title: "Lore",
+			title: "Submit",
 			url: "/lore",
 		},
 		{
-			title: "History",
+			title: "Registry Set",
 			url: "/history",
 		},
 		/* {
-			title: "Merch",
+			title: "Census",
 			url: "/merch",
 		}, */
 	];
