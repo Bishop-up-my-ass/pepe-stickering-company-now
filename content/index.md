@@ -1,10 +1,10 @@
-# Welcome to AnarchyChess <br/> for memesters and chess players
+# Welcome to Pepe Stickering <br/> for plastic and coin collectors
 
 ## Current and upcoming events:
 
 <br>
 
-### **r/Chess vs r/AnarchyChess <br> christmas tournament** <br>
+### **gay sex** <br>
 
 <small>*Date coming soon*</small>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-### **AnarchyChess 960**
+### **gay sex #2**
 
 <small>*Date coming soon*</small>
 
