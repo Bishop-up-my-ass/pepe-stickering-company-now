@@ -17,7 +17,7 @@ from the same-named .md file in the 'content' folder. We also import the stylesh
 			},
 			{
 				name: "description",
-				content: "The official AnarchyChess website, brought to you by the r/anarchychess modteam",
+				content: "Pepe Stcikering Service",
 			},
 		],
 	});
