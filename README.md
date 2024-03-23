@@ -1,10 +1,10 @@
-# The Official AnarchyChess Website
+# The Official Pepe Coin Stickering Website
 
-here we create the first official website for the r/anarchychess community
+here we create the first official website for the pepe coin stickering service
 
-we have pages for our lore, history and custom made puzzles for you!
+we have pages for our registry sets, Faqs and submitter portal!
 
-https://chessanarchists.org
+LLLLLLLLLLLL
 
 
 # How the code works
