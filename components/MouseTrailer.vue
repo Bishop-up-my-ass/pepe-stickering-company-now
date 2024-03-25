@@ -1,5 +1,5 @@
 <template>
-	<img src="/Screenshot 2024-03-23 12.56.52 AM.png" id="pointer" @click="handleClick" draggable="false" alt="pepe mouse trailer"/>
+	<img src="Pepe-loading-screen.jpeg" id="pointer" @click="handleClick" draggable="false" alt="pepe mouse trailer"/>
 </template>
 
 <script setup>
@@ -49,7 +49,7 @@
 	});
 
 	function swapHorsey() {
-		pointer.value.src = angry.value ? "/images/horsey-transparent-flames.webp" : "/images/horsey-transparent.webp";
+		pointer.value.src = angry.value ? "/assets/images/Pepe-loading-screen.jpeg" : "/assets/images/Pepe-loading-screen.jpeg";
 		pointer.value.style.width = angry.value ? "65px" : "40px";
 		pointer.value.style.height = angry.value ? "65px" : "40px";
 	}
@@ -83,6 +83,6 @@
 		transition: opacity 500ms ease;
 
 		border-radius: 30px;
-		background-image: "~/assets/images/horsey.webp";
+		background-image: "~/assets/images/Pepe-loading-screen.jpeg";
 	}
 </style>
